@@ -1,7 +1,6 @@
-#Download base image ubuntu 16.04
+
 FROM golang:1.10
  
-# Update Software repository
 RUN apt-get update
  
 
